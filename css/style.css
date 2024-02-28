@@ -1,0 +1,15 @@
+.testimonio-image img {
+	border-radius: 50%;
+	width: 150px;
+	height: 150px;
+	object-fit: cover;
+}
+
+.splide__arrow--prev, .splide__arrow--prev {
+	left: -2.5rem;
+}
+
+.splide__arrow--next, .splide__arrow--next {
+	right: -2.5rem;
+	transform: translateY(-50%);
+}
