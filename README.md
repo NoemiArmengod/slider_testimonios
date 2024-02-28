@@ -1,6 +1,6 @@
 # PLUGIN DE TESTIMONIOS
 
-Plugin para WordPress para mostrar un slide de testimonios
+Plugin de WordPress para mostrar un slide de testimonios
 
 ## Sección testimonios
 
@@ -12,4 +12,4 @@ Plugin para WordPress para mostrar un slide de testimonios
 
 ## Recursos
 
-Uso de la libreria JavaScript Splide: https://splidejs.com/
+Usa la libreria JavaScript Splide: https://splidejs.com/
